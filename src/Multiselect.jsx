@@ -79,8 +79,8 @@ export default function Multiselect() {
     }
 
     return (
-        <div className="flex p-12">
-            <div className="w-full max-w-xs mx-auto">
+        <div className="flex">
+            <div className="w-full ">
                 <Listbox
                     className="space-y-1"
                     value={selectedPersons}
