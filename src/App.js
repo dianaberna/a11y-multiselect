@@ -13,6 +13,10 @@ function App() {
         <option>Musica</option>
         <option>Inglese</option>
         <option>Arte</option>
+        <option>Informatica</option>
+        <option>Disegno</option>
+        <option>Scienze</option>
+        <option>Biologia</option>
       </select>
 
       <hr className='my-4'/>
